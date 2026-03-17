@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Keep markdown consistent across OSes
+*.md text eol=lf
+
+# Ensure attributes file itself stays LF
+.gitattributes text eol=lf
+
